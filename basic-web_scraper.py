@@ -1,4 +1,5 @@
 # BASIC WEB SCRAPER 
+'''Description: A program that fetches and displays the current weather of a specified location using API.'''
 #code for basic web scraper 
 import requests
 from bs4 import BeautifulSoup
