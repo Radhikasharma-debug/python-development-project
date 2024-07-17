@@ -1,3 +1,5 @@
+# BASIC WEB SCRAPER 
+#code for basic web scraper 
 import requests
 from bs4 import BeautifulSoup
 
