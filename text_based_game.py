@@ -1,3 +1,4 @@
+# CODE FOR TEXT BASED ADEVENTURE GAME 
 import time
 
 def game_start():
