@@ -1,3 +1,6 @@
+# CONTACT BOOK
+'''Description : An application to store and manage contact information,allowing the users to add, searchand delete contact'''
+
 class Contact:
     def __init__(self, name, phone, email):
         self.name = name
