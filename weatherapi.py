@@ -1,3 +1,6 @@
+# weather API fetcher
+
+
 import requests
 
 def fetch_weather(api_key, city):
