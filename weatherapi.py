@@ -1,5 +1,5 @@
-# weather API fetcher
-
+# WEATHER API FETCHER
+#code for weather API fetcher
 
 import requests
 
